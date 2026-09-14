@@ -1,0 +1,102 @@
+{
+  "student": "Моцпан Софья",
+  "group": "ИНФА-231",
+  "variant": 8,
+  "corpus_source": "books.toscrape.com + синтетический корпус",
+  "corpus_total": 1400,
+  "sample_size": 1000,
+  "random_state": 108,
+  "min_len": 4,
+  "vocabulary_size": 18638,
+  "build_time_seconds": 0.11644289599917101,
+  "query": "dark night",
+  "query_terms": [
+    "dark",
+    "night"
+  ],
+  "main_operator": "AND",
+  "and_results_count": 9,
+  "and_time_seconds": 4.729999545816099e-06,
+  "or_results_count": 172,
+  "or_time_seconds": 1.320000046689529e-05,
+  "linear_search_time_seconds": 0.06634475850023591,
+  "index_speedup": 27353.02814840646,
+  "vocabulary_by_min_len": {
+    "1": 19745,
+    "2": 19720,
+    "3": 19537,
+    "4": 18638,
+    "5": 16982
+  },
+  "vocabulary_by_corpus_size": {
+    "100": 4800,
+    "250": 8430,
+    "500": 12797,
+    "1000": 18638
+  },
+  "results": [
+    {
+      "doc_id": 216,
+      "source_id": 681,
+      "title": "Dark Lover (Black Dagger Brotherhood #1)",
+      "genre": "",
+      "price": 12.87
+    },
+    {
+      "doc_id": 217,
+      "source_id": 227,
+      "title": "Twenty Yawns",
+      "genre": "",
+      "price": 22.08
+    },
+    {
+      "doc_id": 254,
+      "source_id": 225,
+      "title": "Until Friday Night (The Field Party #1)",
+      "genre": "",
+      "price": 46.31
+    },
+    {
+      "doc_id": 367,
+      "source_id": 904,
+      "title": "Where Lightning Strikes (Bleeding Stars #3)",
+      "genre": "",
+      "price": 39.77
+    },
+    {
+      "doc_id": 421,
+      "source_id": 873,
+      "title": "Best of My Love (Fool&#39;s Gold #20)",
+      "genre": "",
+      "price": 27.41
+    },
+    {
+      "doc_id": 447,
+      "source_id": 757,
+      "title": "The Devil Wears Prada (The Devil Wears Prada #1)",
+      "genre": "",
+      "price": 44.29
+    },
+    {
+      "doc_id": 465,
+      "source_id": 934,
+      "title": "The Girl You Lost",
+      "genre": "",
+      "price": 12.29
+    },
+    {
+      "doc_id": 637,
+      "source_id": 715,
+      "title": "The Travelers",
+      "genre": "",
+      "price": 15.77
+    },
+    {
+      "doc_id": 948,
+      "source_id": 601,
+      "title": "The Darkest Corners",
+      "genre": "",
+      "price": 11.33
+    }
+  ]
+}
